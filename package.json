@@ -1,0 +1,27 @@
+{
+  "name": "sticks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoblinPoi/mickewhy-Sticks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoblinPoi/mickewhy-Sticks/issues"
+  },
+  "homepage": "https://github.com/GoblinPoi/mickewhy-Sticks#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.3.5",
+    "node-fetch": "^2.6.7"
+  }
+}
